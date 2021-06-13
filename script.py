@@ -1,16 +1,15 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """<b>WHAT HELP DO U NEED{},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+CAN BE ONLY USED @cinemuseum2 😇😂:)
 
 See <i>/help</i> for commands and more details.</b>
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>NO HELP 😂:)</i>
 
 
 <b>Basic Commands;</b>
@@ -48,13 +47,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @G9037944937</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : EMILIA CLARKE Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @G9037944937    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
